@@ -3,7 +3,7 @@
 - I completed my post graduation from madras university and having 10 years work experience, started my career as a Junior executive and worked on various assignments.
 - I aimed to be best in my career with great heights, currently doing deep drive in aws, terraform and more on devops. 
 
-- 📫 How to reach me on 
+📫 How to reach me on 
 
 [LinkedIn](https://www.linkedin.com/in/deepamathan/) |  [Twitter](https://twitter.com/cloudnloud) | [Github](https://github.com/deepa-mathan)
 
