@@ -31,9 +31,17 @@
 
 [Terraform workflow](https://www.linkedin.com/posts/deepamathan_terraform-terraform-terraform-activity-7018292543511560192-mK9u/?utm_source=share&utm_medium=member_desktop)
 
+[Terraform Variables](https://www.linkedin.com/posts/deepamathan_a-note-on-terraform-variables-activity-7037842171399479296-weva?utm_source=share&utm_medium=member_desktop)
+
 ## AWS
 
 [Databases On AWS](https://www.linkedin.com/posts/deepamathan_aws-training-community-activity-7019008623469096960-PGMB?utm_source=share&utm_medium=member_desktop)
+
+## Git
+
+[Connect Github via VS Code Editor](https://www.linkedin.com/posts/deepamathan_technology-cloudnloud-devops-activity-7032085262402805760-pGhE?utm_source=share&utm_medium=member_desktop)
+
+[Git Commands](https://www.linkedin.com/posts/deepamathan_cloudnloud-devops-community-activity-7032284711842439168-uh-E?utm_source=share&utm_medium=member_desktop)
 
 <!---
 deepa-mathan/deepa-mathan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
